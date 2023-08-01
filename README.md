@@ -1,4 +1,4 @@
-# Project Title
+# SCSS Architecture (패턴 / 폴더 구조)
 
 One Paragraph of project description goes here
 
@@ -44,3 +44,6 @@ styles/
    – _admin.scss        
 
 – app.scss             
+
+
+## abstracts
